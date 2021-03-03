@@ -5,7 +5,7 @@ sections:
     title: Yet Another Project
     subtitle: Let's not buy the domain this time...
     actions:
-      - label: Contact Us
+      - label: 'Please, don''t contact me'
         url: /contact
         style: secondary
     align: left
