@@ -30,6 +30,6 @@ author: content/data/team/person-wyvs6uf4x.json
 >
 > I'M STUCK. HALP.\*\*
 >
->
->
 > Formatted text in the quote worked in the preview but not once saved and then it shows the formatting characters, text isn't formatted anymore: no nested formatting I guess.
+>
+> I am still stuck in this quote thingy. Can somebody really send help please?
