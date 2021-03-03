@@ -5,9 +5,6 @@ sections:
     title: Yet Another Project
     subtitle: Let's not buy the domain this time...
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
