@@ -1,7 +1,8 @@
 ---
 title: A blog post
 date: '2021-03-03'
-categories: []
+categories:
+  - content/data/categories/category-nfutbr2l5.json
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
