@@ -4,7 +4,7 @@ date: '2021-03-03'
 categories:
   - content/data/categories/category-nfutbr2l5.json
 tags: []
-image_alt: lorem-ipsum
+image_alt: Windows but not the OS
 excerpt: 'Oh, some excerpt, probably for the article lists'
 seo:
   title: ''
