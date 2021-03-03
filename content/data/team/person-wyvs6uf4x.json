@@ -4,6 +4,6 @@
     "first_name": "Rudy",
     "last_name": "Weber",
     "photo_alt": "Rudy Weber",
-    "bio": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+    "bio": "## Bio\n\nI did things, didn't do other things.\n\nI type on my keyboard and it compiles (or not).\n",
     "type": "person"
 }
