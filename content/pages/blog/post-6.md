@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: A blog post
 date: '2021-03-03'
 categories: []
 tags: []
