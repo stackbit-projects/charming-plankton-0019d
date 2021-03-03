@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: images/feature.svg
+author: content/data/team/person-wyvs6uf4x.json
 ---
 ## Lorem ipsum
 
