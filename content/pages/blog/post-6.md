@@ -16,9 +16,24 @@ layout: post
 image: images/feature.svg
 author: content/data/team/person-wyvs6uf4x.json
 ---
-## Lorem ipsum
+# Testing out the rich-text editor
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Basic layout stuff works
 
-- Lorem ipsum
-- dolor sit amet
+
+
+**No code viewer integration :(**
+
+> **Quotes look nice - Me, now.
+>
+>
+>
+> I WANNA GET OUT OF IT, THOUGH.
+>
+>
+> (and clicking on the icon again removes the entire quote style
+>
+>
+>
+>
+> I'M STUCK. HALP.**
