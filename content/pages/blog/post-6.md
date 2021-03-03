@@ -5,7 +5,7 @@ categories:
   - content/data/categories/category-nfutbr2l5.json
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: 'Oh, some excerpt, probably for the'
 seo:
   title: ''
   description: ''
