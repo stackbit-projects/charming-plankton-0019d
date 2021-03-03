@@ -2,7 +2,18 @@
 title: lorem-ipsum
 date: '2021-03-03'
 categories: []
-tags: []
+tags:
+  - '0': l
+    '1': o
+    '2': r
+    '3': e
+    '4': m
+    '5': '-'
+    '6': i
+    '7': p
+    '8': s
+    '9': u
+    '10': m
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
