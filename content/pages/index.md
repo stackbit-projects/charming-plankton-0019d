@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Yet Another Project
-    subtitle: LALALALAA
+    subtitle: Let's not buy the domain this time...
     actions:
       - label: Learn More
         url: /features
